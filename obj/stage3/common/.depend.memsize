@@ -1,0 +1,14 @@
+/homes/markli/u-boot-siege-git/u-boot/obj/stage3/common/memsize.o:  \
+ memsize.c \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include/config.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/config_cmd_defaults.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/config_defaults.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/juniper_srx_siege.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/juniper_srx_siege_version.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/octeon_common.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/octeon_cmd_conf.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/octeon_network.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/juniper_srx_siege_shared.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/juniper_srx_airbus_shared.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/config.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/config_fallbacks.h

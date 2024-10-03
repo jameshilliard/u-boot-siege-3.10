@@ -1,0 +1,12 @@
+/homes/markli/u-boot-siege-git/u-boot/obj/stage3/lib/linux_string.o:  \
+ linux_string.c \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/ctype.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/string.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/posix_types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/stddef.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/posix_types.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/types.h \
+  /homes/markli/u-boot-siege-git/u-boot/gcc_depends/include/stdbool.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/string.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/linux_string.h

@@ -1,0 +1,26 @@
+/homes/markli/u-boot-siege-git/u-boot/obj/stage3/api/api_platform-mips.o:  \
+ api_platform-mips.c \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include/config.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/config_cmd_defaults.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/config_defaults.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/juniper_srx_siege.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/juniper_srx_siege_version.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/octeon_common.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/octeon_cmd_conf.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/octeon_network.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/juniper_srx_siege_shared.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/configs/juniper_srx_airbus_shared.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/config.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/config_fallbacks.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/posix_types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/stddef.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/posix_types.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/types.h \
+  /homes/markli/u-boot-siege-git/u-boot/gcc_depends/include/stdbool.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/api_public.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/u-boot.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/global_data.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage3/include2/asm/arch/octeon_eeprom_types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/asm-generic/global_data.h \
+  api_private.h

@@ -1,0 +1,2 @@
+/homes/markli/u-boot-siege-git/u-boot/obj/stage2/lib/ctype.o: ctype.c \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/ctype.h

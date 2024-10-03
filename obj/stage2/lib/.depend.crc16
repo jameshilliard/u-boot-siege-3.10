@@ -1,0 +1,8 @@
+/homes/markli/u-boot-siege-git/u-boot/obj/stage2/lib/crc16.o: crc16.c \
+  /homes/markli/u-boot-siege-git/u-boot/include/crc.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/posix_types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/stddef.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage2/include2/asm/posix_types.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage2/include2/asm/types.h \
+  /homes/markli/u-boot-siege-git/u-boot/gcc_depends/include/stdbool.h

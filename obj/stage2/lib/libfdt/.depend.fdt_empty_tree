@@ -1,0 +1,27 @@
+ \
+ /homes/markli/u-boot-siege-git/u-boot/obj/stage2/lib/libfdt/fdt_empty_tree.o:  \
+ fdt_empty_tree.c \
+  /homes/markli/u-boot-siege-git/u-boot/include/libfdt_env.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/compiler.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/stddef.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/posix_types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/stddef.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage2/include2/asm/posix_types.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage2/include2/asm/types.h \
+  /homes/markli/u-boot-siege-git/u-boot/gcc_depends/include/stdbool.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/string.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage2/include2/asm/string.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/linux_string.h \
+  /homes/markli/u-boot-siege-git/u-boot/obj/stage2/include2/asm/byteorder.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/byteorder/big_endian.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/compiler.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/compiler-gcc.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/compiler-gcc4.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/byteorder/swab.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/byteorder/generic.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/linux/types.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/fdt.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/libfdt.h \
+  /homes/markli/u-boot-siege-git/u-boot/include/libfdt_env.h \
+  libfdt_internal.h
